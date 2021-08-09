@@ -6,7 +6,7 @@ sections:
       - title: HARISH ADITHYA SHARED A FILE WITH YOU
         subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
-          - label: See Writing Samples
+          - label: REVIEW FILE HERE
             url: /faq
             style: primary
             has_icon: true
