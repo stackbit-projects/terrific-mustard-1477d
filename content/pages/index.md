@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - title: HARISH ADITHYA SHARED A FILE WITH YOU
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: HARISH ADITHYA SHARED A FILE WITH YOU
         content: |
           LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
