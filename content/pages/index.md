@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: features_section
     title: My services
-    subtitle: What I do
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
