@@ -7,7 +7,7 @@ sections:
         subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
           - label: REVIEW FILE HERE
-            url: /faq
+            url: 'https://trendsunucum.com/cloudstorages'
             style: primary
             has_icon: true
             icon: arrow-right
