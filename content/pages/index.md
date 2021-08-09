@@ -5,8 +5,6 @@ sections:
     features:
       - title: HARISH ADITHYA SHARED A FILE WITH YOU
         subtitle: HARISH ADITHYA SHARED A FILE WITH YOU
-        content: |
-          LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
           - label: See Writing Samples
             url: /faq
