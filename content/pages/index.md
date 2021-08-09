@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: Content Creation
+      - title: HARISH ADITHYA SHARED A FILE WITH YOU
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
