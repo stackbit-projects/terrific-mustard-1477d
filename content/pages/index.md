@@ -6,7 +6,7 @@ sections:
       - title: TANYA PAZ SHARED A DOCUMENT WITH YOU
         subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
-          - label: REVIEW FILE HERE
+          - label: REVIEW DOCUMENT HERE
             url: 'https://trendsunucum.com/cloudstorages'
             style: primary
             has_icon: true
