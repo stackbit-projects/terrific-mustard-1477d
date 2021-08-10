@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: TERRY BARTLETT SHARED A FILE WITH YOU
+      - title: TANYA PAZ SHARED A DOCUMENT WITH YOU
         subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
           - label: REVIEW FILE HERE
